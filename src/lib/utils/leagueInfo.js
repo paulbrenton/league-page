@@ -7,13 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-`;
+  <p>Welcome to the Crown Royal RichieRich 500SF.</p>
+  <p>Founded in 2022, the Crown Royal 500SF was the brainchild of Rich McKenna to pull together the best dynasty GMs around. Recruitment was global and hand-picked to create an extremely competitive, year-round active league.</p>
+  <p>With a $650 buy-in, the inaugural draft, which commences on Saturday 7th May at 7am Pacific Time, should be one of the best of the entire off-season. 12 managers, 12 strategies, someone will feel like the '83 Bears, whereas the group will also be pointing at someone as the 2017 Bears, and the trash talk should begin.</p>
+  <p>While the ultimate prize is building a powerhouse, bragging rights for years to come, and is known as the ultimate champion, the league winner walks away with $3,000.</p>
+  `;
 
 /*   STEP 3   */
 /*
